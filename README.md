@@ -1,52 +1,85 @@
-## Hi there 👋
-<h1 align="center">Hey 👋What's Up?</h1>
+# 👋 Hi, I'm Stephen Ochieng Otieno  
 
-###
+💡 *Machine Learning Engineer | Data Analyst | Computer Vision Enthusiast*  
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+I am passionate about solving **real-world problems** using **machine learning, deep learning, and computer vision**.  
+With a background in **Electrical & Telecommunication Engineering** and hands-on experience in **data science projects**,  
+I enjoy building impactful solutions that drive innovation and improve lives.  
 
-###
+---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+## 🚀 About Me
+- 🎓 BSc. Electrical & Telecommunication Engineering, Multimedia University of Kenya  
+- 📊 Certified in Data Science (Moringa School, WorldQuant University)  
+- 🤖 Aspiring Machine Learning Engineer focusing on **AI, NLP, and Computer Vision**  
+- 🔍 Passionate about using **data-driven insights** to shape decision-making and policies  
 
-###
+---
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
+## 🛠️ Tech Stack
+
+**Languages & Tools**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+**Other Skills**  
+- Data Analysis & Visualization (Plotly, Seaborn)  
+- Machine Learning (Regression, Classification, Time Series)  
+- Deep Learning (CNNs, RNNs, NLP, Computer Vision)  
+- Databases (MySQL, PostgreSQL, MongoDB)  
+- Version Control (Git/GitHub)  
+
+---
+
+## 📂 Featured Projects  
+
+### 🔹 Aircraft Safety Risk Analysis  
+<img src="https://via.placeholder.com/800x400.png?text=Aircraft+Safety+Dashboard" alt="Aircraft Safety Risk Analysis" />  
+*Analyzed aviation accident data (NTSB) to evaluate safety risks and recommend safer aircraft models.  
+Developed **comparative metrics** and visualized findings in **Tableau**.*  
+
+➡️ [View Repository](#)  
+
+---
+
+### 🔹 Global HIV/AIDS & Child Mortality Analysis  
+<img src="https://via.placeholder.com/800x400.png?text=HIV+AIDS+and+Child+Mortality+Analysis" alt="HIV AIDS Project" />  
+*Data cleaning and analysis of global HIV/AIDS and child mortality data in Eastern Africa.  
+Provided insights for **resource prioritization** and **policy-making**.*  
+
+➡️ [View Repository](#)  
+
+---
+
+### 🔹 Terry Stop Arrest Prediction  
+<img src="https://via.placeholder.com/800x400.png?text=Arrest+Prediction+Model" alt="Terry Stop Arrest Prediction" />  
+*Modeled **Logistic Regression, Decision Tree, and Random Forest classifiers**.  
+Best model achieved **AUC = 0.93**, supporting fair policing practices.*  
+
+➡️ [View Repository](#)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Stephen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ochiengstephen254&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ochiengstephen254&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-ochieng-8974062a2/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ochiengstephen254)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stephenochieng037@gmail.com)  
+
+---
+✨ *“Turning data into intelligent solutions to revolutionize engineering and society.”*  
+
 
 ###
