@@ -39,7 +39,7 @@ I enjoy building impactful solutions that drive innovation and improve lives.
 ## 📂 Featured Projects  
 
 ### 🔹 Aircraft Safety Risk Analysis  
-<img src="https://via.placeholder.com/800x400.png?text=Aircraft+Safety+Dashboard" alt="Aircraft Safety Risk Analysis" />  
+<src="https://via.placeholder.com/800x400.png?text=Aircraft+Safety+Dashboard" alt="Aircraft Safety Risk Analysis" />  
 *Analyzed aviation accident data (NTSB) to evaluate safety risks and recommend safer aircraft models.  
 Developed **comparative metrics** and visualized findings in **Tableau**.*  
 
@@ -48,7 +48,7 @@ Developed **comparative metrics** and visualized findings in **Tableau**.*
 ---
 
 ### 🔹 Global HIV/AIDS & Child Mortality Analysis  
-<img src="https://via.placeholder.com/800x400.png?text=HIV+AIDS+and+Child+Mortality+Analysis" alt="HIV AIDS Project" />  
+< src="https://via.placeholder.com/800x400.png?text=HIV+AIDS+and+Child+Mortality+Analysis" alt="HIV AIDS Project" />  
 *Data cleaning and analysis of global HIV/AIDS and child mortality data in Eastern Africa.  
 Provided insights for **resource prioritization** and **policy-making**.*  
 
@@ -57,7 +57,7 @@ Provided insights for **resource prioritization** and **policy-making**.*
 ---
 
 ### 🔹 Terry Stop Arrest Prediction  
-<img src="https://via.placeholder.com/800x400.png?text=Arrest+Prediction+Model" alt="Terry Stop Arrest Prediction" />  
+< src="https://via.placeholder.com/800x400.png?text=Arrest+Prediction+Model" alt="Terry Stop Arrest Prediction" />  
 *Modeled **Logistic Regression, Decision Tree, and Random Forest classifiers**.  
 Best model achieved **AUC = 0.93**, supporting fair policing practices.*  
 
