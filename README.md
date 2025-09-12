@@ -37,8 +37,7 @@ Here are some of my featured projects—click through to repos for code, documen
 
 ---
 
-### 🛰️ Aircraft Safety Risk Dashboard  
-![Aircraft](https://img.icons8.com/external-flat-juicy-fish/344/external-airplane-travel-flat-flat-juicy-fish.png)  
+### 🛰️ Aircraft Safety Risk Dashboard    
 An analytical dashboard built to compare aircraft risk metrics using aviation data. Helps identify safer aircraft models and trends over time.  
 
 ➡️ [View the repo »](https://github.com/ochiengstephen254/Aviation-Risk-Analysis)  
@@ -46,7 +45,7 @@ An analytical dashboard built to compare aircraft risk metrics using aviation da
 ---
 
 ### 🌍 HIV/AIDS & Child Mortality Insight Project  
-![Health Data](https://img.icons8.com/external-flat-juicy-fish/344/external-healthcare-hospital-flat-flat-juicy-fish.png)  
+
 Performed data cleaning and exploratory analysis on Eastern Africa health data to uncover patterns and suggest allocations for policy and interventions.  
 
 ➡️ [View the repo »](https://github.com/ochiengstephen254/Global-HIV-Trend-Analysis)  
@@ -54,7 +53,7 @@ Performed data cleaning and exploratory analysis on Eastern Africa health data t
 ---
 
 ### 🔒 Terry-Stop Arrest Prediction  
-![Prediction](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-machine-learning-technology-economy-flaticons-lineal-color-flat-icons.png)  
+
 Built classification models (Logistic Regression, Random Forest, etc.) to predict arrest likelihood from stop data. Emphasis on fairness and interpretability.  
 
 ➡️ [View the repo »](https://github.com/ochiengstephen254/terry_stop_project)  
