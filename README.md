@@ -39,7 +39,7 @@ I enjoy building impactful solutions that drive innovation and improve lives.
 ## 📂 Featured Projects  
 
 ### 🔹 Aircraft Safety Risk Analysis  
-< src="https://via.placeholder.com/800x400.png?text=Aircraft+Safety+Dashboard" alt="Aircraft Safety Risk Analysis" />  
+![Aircraft Safety Risk Analysis](https://via.placeholder.com/800x400.png?text=Aircraft+Safety+Dashboard)  
 *Analyzed aviation accident data (NTSB) to evaluate safety risks and recommend safer aircraft models.  
 Developed **comparative metrics** and visualized findings in **Tableau**.*  
 
