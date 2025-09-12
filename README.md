@@ -2,7 +2,7 @@
 
 ### *Machine Learning Engineer | Data Analyst | Innovator*  
 
-![Header](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg)  
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="120"/>   
 Welcome to my corner of GitHub! I build practical AI/ML solutions that solve real-world problems—especially in computer vision, predictive modeling, and data visualization.  
 
 ---
