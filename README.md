@@ -36,24 +36,21 @@ Replace the placeholder images below with actual screenshots or visuals from you
 
 ---
 
-### 🛰️ Aircraft Safety Risk Dashboard  
-![Aircraft Safety Risk Dashboard]  
+### 🛰️ Aircraft Safety Risk Dashboard   
 An analytical dashboard built to compare aircraft risk metrics using aviation data. Helps identify safer aircraft models and trends over time.
 
-[View the repo »](#)
+[View the repo »](https://github.com/ochiengstephen254/Aviation-Risk-Analysis)
 
 ---
 
-### 🌍 HIV/AIDS & Child Mortality Insight Project  
-![HIV/AIDS & Child Mortality](https://via.placeholder.com/800x400.png?text=HIV+AIDS+Child+Mortality)  
+### 🌍 HIV/AIDS & Child Mortality Insight Project   
 Performed data cleaning and exploratory analysis on Eastern Africa health data to uncover patterns and suggest allocations for policy and interventions.
 
-[View the repo »](#)
+[View the repo »](https://github.com/ochiengstephen254/Global-HIV-Trend-Analysis)
 
 ---
 
-### 🔒 Terry-Stop Arrest Prediction  
-![Arrest Prediction Model](https://via.placeholder.com/800x400.png?text=Arrest+Prediction+Model)  
+### 🔒 Terry-Stop Arrest Prediction    
 Built classification models (Logistic Regression, Random Forest, etc.) to predict arrest likelihood from stop data. Emphasis on fairness and interpretability.
 
 [View the repo »](https://github.com/ochiengstephen254/terry_stop_project)
