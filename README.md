@@ -1,85 +1,85 @@
-# 👋 Hi, I'm Stephen Ochieng Otieno  
+# 👋 Hello, I’m Stephen Ochieng Otieno
 
-💡 *Machine Learning Engineer | Data Analyst | Computer Vision Enthusiast*  
+### *Machine Learning Engineer | Data Analyst | Innovator*
 
-I am passionate about solving **real-world problems** using **machine learning, deep learning, and computer vision**.  
-With a background in **Electrical & Telecommunication Engineering** and hands-on experience in **data science projects**,  
-I enjoy building impactful solutions that drive innovation and improve lives.  
+Welcome to my corner of GitHub! I build practical AI/ML solutions that solve real-world problems—especially in computer vision, predictive modeling, and data visualization. 
 
 ---
 
-## 🚀 About Me
-- 🎓 BSc. Electrical & Telecommunication Engineering, Multimedia University of Kenya  
-- 📊 Certified in Data Science (Moringa School, WorldQuant University)  
-- 🤖 Aspiring Machine Learning Engineer focusing on **AI, NLP, and Computer Vision**  
-- 🔍 Passionate about using **data-driven insights** to shape decision-making and policies  
+## 🔍 About Me
+
+- **Name:** Stephen Ochieng Otieno  
+- **Education:** BSc in Electrical & Telecommunication Engineering  
+- **Certifications:** Data Science — Moringa School, WorldQuant University  
+- **Strong suits:** Computer Vision • Deep Learning • Data Analysis • Predictive Modeling  
+- **Passion:** Using technology to improve lives— whether in health, access, or safety  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech & Tools I Use
 
-**Languages & Tools**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-**Other Skills**  
-- Data Analysis & Visualization (Plotly, Seaborn)  
-- Machine Learning (Regression, Classification, Time Series)  
-- Deep Learning (CNNs, RNNs, NLP, Computer Vision)  
-- Databases (MySQL, PostgreSQL, MongoDB)  
-- Version Control (Git/GitHub)  
+| Category            | Tools & Libraries                                                                 |
+|---------------------|----------------------------------------------------------------------------------|
+| Programming         | Python, SQL                                                                       |
+| Machine Learning    | Scikit-learn, TensorFlow, PyTorch                                                |
+| Deep Learning       | CNNs, RNNs, Transformers                                                          |
+| Data Wrangling & Viz | Pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau                              |
+| Databases           | MySQL, PostgreSQL, MongoDB                                                       |
+| Deployment & Others  | Git, Jupyter Notebook, version control                                          |
 
 ---
 
-## 📂 Featured Projects  
+## 📁 Key Projects
 
-### 🔹 Aircraft Safety Risk Analysis  
-![Aircraft Safety Risk Analysis](https://via.placeholder.com/800x400.png?text=Aircraft+Safety+Dashboard)  
-*Analyzed aviation accident data (NTSB) to evaluate safety risks and recommend safer aircraft models.  
-Developed **comparative metrics** and visualized findings in **Tableau**.*  
-
-➡️ [View Repository](#)  
+Here are some of my featured projects—click through to repos for code, documentation, and live demos.  
+Replace the placeholder images below with actual screenshots or visuals from your works.
 
 ---
 
-### 🔹 Global HIV/AIDS & Child Mortality Analysis  
-<  src="https://via.placeholder.com/800x400.png?text=HIV+AIDS+and+Child+Mortality+Analysis" alt="HIV AIDS Project" />  
-*Data cleaning and analysis of global HIV/AIDS and child mortality data in Eastern Africa.  
-Provided insights for **resource prioritization** and **policy-making**.*  
+### 🛰️ Aircraft Safety Risk Dashboard  
+![Aircraft Safety Risk Dashboard](https://via.placeholder.com/800x400.png?text=Aircraft+Safety+Dashboard)  
+An analytical dashboard built to compare aircraft risk metrics using aviation data. Helps identify safer aircraft models and trends over time.
 
-➡️ [View Repository](#)  
-
----
-
-### 🔹 Terry Stop Arrest Prediction  
-<  src="https://via.placeholder.com/800x400.png?text=Arrest+Prediction+Model" alt="Terry Stop Arrest Prediction" />  
-*Modeled **Logistic Regression, Decision Tree, and Random Forest classifiers**.  
-Best model achieved **AUC = 0.93**, supporting fair policing practices.*  
-
-➡️ [View Repository](#)  
+[View the repo »](#)
 
 ---
 
-## 📊 GitHub Stats  
+### 🌍 HIV/AIDS & Child Mortality Insight Project  
+![HIV/AIDS & Child Mortality](https://via.placeholder.com/800x400.png?text=HIV+AIDS+Child+Mortality)  
+Performed data cleaning and exploratory analysis on Eastern Africa health data to uncover patterns and suggest allocations for policy and interventions.
 
-![Stephen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ochiengstephen254&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ochiengstephen254&layout=compact&theme=tokyonight)  
+[View the repo »](#)
 
 ---
 
-## 🌐 Connect with Me  
+### 🔒 Terry-Stop Arrest Prediction  
+![Arrest Prediction Model](https://via.placeholder.com/800x400.png?text=Arrest+Prediction+Model)  
+Built classification models (Logistic Regression, Random Forest, etc.) to predict arrest likelihood from stop data. Emphasis on fairness and interpretability.
+
+[View the repo »](#)
+
+---
+
+## 📊 GitHub Stats
+
+Here are some dynamic stats showing my GitHub projects and languages:
+
+![Stephen’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=ochiengstephen254&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ochiengstephen254&layout=compact&theme=tokyonight)
+
+---
+
+## 📞 Connect With Me
+
+I’m always open to collaborations, mentorship, or just a chat about data and AI!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-ochieng-8974062a2/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ochiengstephen254)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stephenochieng037@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stephenochieng037@gmail.com)
 
 ---
-✨ *“Turning data into intelligent solutions to revolutionize engineering and society.”*  
 
+⭐ *“Turning data into intelligent solutions. Engineering for impact.”*
 
-###
+---
+
