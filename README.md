@@ -37,7 +37,7 @@ Replace the placeholder images below with actual screenshots or visuals from you
 ---
 
 ### 🛰️ Aircraft Safety Risk Dashboard  
-![Aircraft Safety Risk Dashboard](https://via.placeholder.com/800x400.png?text=Aircraft+Safety+Dashboard)  
+![Aircraft Safety Risk Dashboard]  
 An analytical dashboard built to compare aircraft risk metrics using aviation data. Helps identify safer aircraft models and trends over time.
 
 [View the repo »](#)
@@ -56,7 +56,7 @@ Performed data cleaning and exploratory analysis on Eastern Africa health data t
 ![Arrest Prediction Model](https://via.placeholder.com/800x400.png?text=Arrest+Prediction+Model)  
 Built classification models (Logistic Regression, Random Forest, etc.) to predict arrest likelihood from stop data. Emphasis on fairness and interpretability.
 
-[View the repo »](#)
+[View the repo »](https://github.com/ochiengstephen254/terry_stop_project)
 
 ---
 
