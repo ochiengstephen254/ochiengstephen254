@@ -1,82 +1,132 @@
-# 👋 Hello, I’m Stephen Ochieng Otieno  
+<!-- Animated Header -->
+<h1 align="center">📊 STEPHEN OCHIENG OTIENO</h1>
 
-### *Machine Learning Engineer | Data Analyst | Innovator*  
-
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="120"/>   
-Welcome to my corner of GitHub! I build practical AI/ML solutions that solve real-world problems—especially in computer vision, predictive modeling, and data visualization.  
-
----
-
-## 🔍 About Me  
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>  
-
-- **Name:** Stephen Ochieng Otieno  
-- **Education:** BSc in Electrical & Telecommunication Engineering  
-- **Certifications:** Data Science — Moringa School, WorldQuant University  
-- **Strong suits:** Computer Vision • Deep Learning • Data Analysis • Predictive Modeling  
-- **Passion:** Using technology to improve lives— whether in health, access, or safety  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=1E90FF&center=true&vCenter=true&width=600&lines=Data+Analyst;Machine+Learning+%26+Deep+Learning+Enthusiast;SQL+%7C+Python+%7C+Tableau;Transforming+Data+into+Actionable+Insights;Data+Driven+Decision+Making" />
+</p>
 
 ---
 
-## 🛠️ Tech & Tools I Use  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+📍 Nairobi, Kenya  
+📞 **0703144680**  
+📧 **stephenochieng037@gmail.com**  
+🔗 **GitHub:** https://github.com/ochiengstephen254  
+🔗 **LinkedIn:** https://www.linkedin.com/in/stephen-ochieng-8974062a2/  
 
 ---
 
-## 📁 Key Projects  
-
-Here are some of my featured projects—click through to repos for code, documentation, and live demos.  
-
----
-
-### 🛰️ Aircraft Safety Risk Dashboard    
-An analytical dashboard built to compare aircraft risk metrics using aviation data. Helps identify safer aircraft models and trends over time.  
-
-➡️ [View the repo »](https://github.com/ochiengstephen254/Aviation-Risk-Analysis)  
+## 💡 Summary 
+Data Analyst with hands-on experience in data acquisition, wrangling, modeling, visualization, and machine learning. Strong foundation in Electrical & Telecommunication Engineering complemented by multiple Data Science certifications. Passionate about using data to drive smarter decisions, optimize performance, and support innovation across organizations.
 
 ---
 
-### 🌍 HIV/AIDS & Child Mortality Insight Project  
+## 🧠 Technical Skills
 
-Performed data cleaning and exploratory analysis on Eastern Africa health data to uncover patterns and suggest allocations for policy and interventions.  
+### 🔹 Languages & Tools
+SQL | Python *(Pandas, NumPy, Matplotlib, Plotly, Seaborn)* | PyTorch | PySpark  
 
-➡️ [View the repo »](https://github.com/ochiengstephen254/Global-HIV-Trend-Analysis)  
+### 🔹 Data Visualization
+Tableau | Power BI | Plotly | Matplotlib | Seaborn  
 
----
+### 🔹 Databases
+MySQL | PostgreSQL | MongoDB  
 
-### 🔒 Terry-Stop Arrest Prediction  
-
-Built classification models (Logistic Regression, Random Forest, etc.) to predict arrest likelihood from stop data. Emphasis on fairness and interpretability.  
-
-➡️ [View the repo »](https://github.com/ochiengstephen254/terry_stop_project)  
-
----
-
-## 📊 GitHub Stats  
-
-![Stephen’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=ochiengstephen254&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ochiengstephen254&layout=compact&theme=tokyonight)  
+### 🔹 Core Expertise
+A/B Testing | Statistical Modeling | Time Series Analysis | NLP | Machine Learning | Deep Learning | Computer Vision | Data Cleaning | Git | Jupyter Notebook  
 
 ---
 
-## 📞 Connect With Me  
-
-I’m always open to collaborations, mentorship, or just a chat about data and AI!  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-ochieng-8974062a2/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ochiengstephen254)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stephenochieng037@gmail.com)  
+## 🌟 Non-Technical Skills
+- Critical Thinking ✅  
+- Strong Communication ✅  
+- Problem Solving ✅  
+- Teamwork ✅  
 
 ---
 
-⭐ *“Turning data into intelligent solutions. Engineering for impact.”*  
+## 📂 Technical Projects
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="800"/>  
+### 📍 Global HIV/AIDS & Child Mortality Analysis (Eastern Africa)
+📌 GitHub: https://github.com/ochiengstephen254/Global-HIV-Trend-Analysis/blob/main/Stephen_Otieno.ipynb  
+✔ Cleaned complex datasets (missing values, duplicates, standardization)  
+✔ Analyzed mortality and HIV prevalence trends  
+✔ Provided insights for **resource allocation & health policy optimization**  
+
+---
+
+### ✈ Aircraft Safety Risk Analysis
+📌 GitHub: https://github.com/ochiengstephen254/Aviation-Risk-Analysis  
+✔ Analyzed aviation accidents using SQL + Python  
+✔ Identified major safety risk factors (mechanical, human, environmental)  
+✔ Developed Tableau dashboards supporting safer fleet acquisition  
+
+---
+
+### 🚔 Terry Stop Arrest Prediction
+📌 GitHub: [Repo Name Placeholder — add actual URL]  
+✔ Machine learning classification comparison  
+✔ Recommended Random Forest model *(AUC 0.93)*  
+✔ Enabled fair policing & efficient resource use  
+
+---
+
+## 💼 Experience
+
+### 🧪 Freelance Data Scientist — Upwork
+📆 *Mar 2025 – Jul 2025*  
+- Data cleaning & predictive modeling on structured datasets  
+- Time series normalization & interpolation  
+- Model performance visualization and reporting  
+
+### ⚙ Junior Engineer — MFI Document Solutions
+📆 *Feb 2023 – Jun 2024*  
+- Preventive maintenance achieving **95%+ uptime**  
+- Installation and commissioning of IT equipment  
+- Customer support ensuring **90% retention rate**  
+- Project planning & execution  
+
+---
+
+## 🎓 Education
+
+| Institution | Program | Completion |
+|------------|---------|------------|
+| WorldQuant University (NY) | Applied Data Science Bootcamp | 9/2024 – 4/2025 |
+| Moringa School (Kenya) | Data Science Certification | 7/2024 – 3/2025 |
+| WorldQuant University | Applied AI Lab — Computer Vision | 4/2025 – 7/2025 |
+| Multimedia University of Kenya | BSc Electrical & Telecommunication Engineering — *2nd Class Upper* | 2017 – 2022 |
+
+---
+
+## 🏅 Certifications
+- **Python 101 for Data Science** ✅  
+  https://courses.cognitiveclass.ai/certificates/6c75b86dc941443e9ecf02dee9b52d8d  
+- **Data Visualization** ✅  
+  https://courses.cognitiveclass.ai/certificates/df15ba691ee441c8ab6deec5f895a8ce  
+- **Data Analysis with Python** ✅  
+  https://courses.cognitiveclass.ai/certificates/f055c08a492046408405772f1b5ab4b0  
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ochiengstephen254&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ochiengstephen254&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ochiengstephen254&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📬 Contact Me
+
+<p>
+<a href="mailto:stephenochieng037@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png"></a>
+<a href="https://github.com/ochiengstephen254"><img src="https://img.icons8.com/fluency/48/github.png"></a>
+<a href="https://www.linkedin.com/in/stephen-ochieng-8974062a2/"><img src="https://img.icons8.com/color/48/linkedin.png"></a>
+</p>
+
+---
+
+> 🔍 *I’m open to opportunities in Data Analytics, Machine Learning, and Business Intelligence.*  
+> Let’s collaborate and turn data into impact! 🚀
