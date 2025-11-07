@@ -63,7 +63,7 @@ A/B Testing | Statistical Modeling | Time Series Analysis | NLP | Machine Learni
 ---
 
 ### 🚔 Terry Stop Arrest Prediction
-📌 GitHub: [Repo Name Placeholder — add actual URL]  
+📌 GitHub: https://github.com/ochiengstephen254/terry_stop_project  
 ✔ Machine learning classification comparison  
 ✔ Recommended Random Forest model *(AUC 0.93)*  
 ✔ Enabled fair policing & efficient resource use  
