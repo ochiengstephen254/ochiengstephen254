@@ -74,12 +74,15 @@ A/B Testing | Statistical Modeling | Time Series Analysis | NLP | Machine Learni
 
 ### 🧪 Data Scientist — Builda AI
 📆 *Jan 2025 – Jul 2025*
- -Collaborated on AI-driven projects that leveraged data science and automation for decision-making. 
--Designed, trained, and evaluated predictive models for optimization and forecasting in sectors such as 
-education and agriculture. 
--Supported data infrastructure development and deployment of analytical models for real-time 
-decision-making. 
-●-Worked collaboratively with developers and engineers to scale data products efficiently.
+   -Collaborated on AI-driven projects that leveraged data science and automation for decision-making. 
+ 
+  -Designed, trained, and evaluated predictive models for optimization and forecasting in sectors such as 
+education and agriculture.
+
+  -Supported data infrastructure development and deployment of analytical models for real-time 
+  decision-making. 
+
+  -Worked collaboratively with developers and engineers to scale data products efficiently.
 
 ### 🧪 Freelance Data Scientist — Upwork
 📆 *August 2024 – Dec 2025*  
