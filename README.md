@@ -72,8 +72,8 @@ A/B Testing | Statistical Modeling | Time Series Analysis | NLP | Machine Learni
 
 ## 💼 Experience
 
-### 🧪 Data Scientist — Builda AI
-📆 *Jan 2025 – Jul 2025*
+### 🧪 Data Scientist — Marisons Consultants
+📆 *August 2025 – Date*
 
      -Collaborated on AI-driven projects that leveraged data science and automation for decision-making. 
  
@@ -83,16 +83,10 @@ A/B Testing | Statistical Modeling | Time Series Analysis | NLP | Machine Learni
     -Supported data infrastructure development and deployment of analytical models for real-time 
     decision-making. 
 
-    -Worked collaboratively with developers and engineers to scale data products efficiently.
-
-### 🧪 Freelance Data Scientist — Upwork
-📆 *August 2024 – Dec 2025*  
-- Data cleaning & predictive modeling on structured datasets  
-- Time series normalization & interpolation  
-- Model performance visualization and reporting  
+    -Worked collaboratively with developers and engineers to scale data products efficiently. 
 
 ### ⚙ Junior Engineer — MFI Document Solutions
-📆 *Feb 2023 – Jun 2024*  
+📆 *Feb 2023 – June 2024*  
 - Preventive maintenance achieving **95%+ uptime**  
 - Installation and commissioning of IT equipment  
 - Customer support ensuring **90% retention rate**  
@@ -104,9 +98,9 @@ A/B Testing | Statistical Modeling | Time Series Analysis | NLP | Machine Learni
 
 | Institution | Program | Completion |
 |------------|---------|------------|
-| WorldQuant University (NY) | Applied Data Science Bootcamp | 9/2024 – 4/2025 |
-| Moringa School (Kenya) | Data Science Certification | 7/2024 – 3/2025 |
-| WorldQuant University | Applied AI Lab — Computer Vision | 4/2025 – 7/2025 |
+| WorldQuant University (NY) | Applied Data Science Bootcamp | 2024 – 2025 |
+| Moringa School (Kenya) | Data Science Certification | 2024 – 2025 |
+| WorldQuant University | Applied AI Lab — Computer Vision | 2025 – 2025 |
 | Multimedia University of Kenya | BSc Electrical & Telecommunication Engineering — *2nd Class Upper* | 2017 – 2022 |
 
 ---
